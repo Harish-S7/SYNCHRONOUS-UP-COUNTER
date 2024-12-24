@@ -56,10 +56,10 @@ begin
      out <= out+1;
 end
 endmodule
-
-Developed by : PAKANATI MONISH
-RegisterNumber : 24003694
 ~~~
+Developed by : Harish S
+RegisterNumber : 24900573
+
 
 **RTL LOGIC UP COUNTER**
 ![326162102-04e3c990-074d-4ae5-99d7-5c2b79b4bc3e](https://github.com/04Varsha/SYNCHRONOUS-UP-COUNTER/assets/149035374/029d63a5-f2b9-4546-8040-0cb5d453b02d)
